@@ -1,4 +1,3 @@
- ### HappyQuiz
  
 Make sure you have:
 - JDK 1.8 or later installed.
